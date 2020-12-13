@@ -4,4 +4,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=B0X0B)](https://solved.ac/B0X0B)
 
-: 하하하
+## 지밍이 하는 프로그래밍 언어 :
+
+* **html**
