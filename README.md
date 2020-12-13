@@ -6,5 +6,6 @@
 
 ## 지밍이 하는 프로그래밍 언어 :
 
-* 웹사이트
-  * Html, Css, Javascript, Node.js
+* Html, Css
+* Javascript, node.js
+* Python
