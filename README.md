@@ -2,4 +2,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FB0X0B&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=B0X0B&show_icons=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/B0X0B)
