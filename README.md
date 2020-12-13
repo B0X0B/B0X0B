@@ -4,4 +4,4 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=B0X0B)](https://solved.ac/B0X0B)
 
-. 
+지밍이 좋아하는 것:
